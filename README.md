@@ -1,7 +1,8 @@
 # Fitness-Membership-Analytics-Dashboard
 
 # 🏋️‍♂️ Onyx Data Challenge – August 2025  
-## 📊 Fitness Membership Analytics Dashboard
+# Zoomcharts Mini Challenge
+## 📊 Fitness Membership Analytics Report
 
 This repository contains my submission for the **Onyx Data Challenge – August 2025**, powered by **ZoomCharts**, **Enterprise DNA**, **BCS**, **Smart Frames UI**, and **Data Career Jumpstart**. The challenge focused on analyzing fitness membership data across multiple locations to uncover trends in revenue, engagement, and retention.
 
@@ -16,6 +17,10 @@ The goal was to build a 3-page interactive Power BI dashboard that delivers acti
 - Regional engagement patterns and personal training usage
 
 ---
+
+## 📊 Report Glimpse
+
+![Fitness Membership Analytics Dashboard](1000083865-Picsart-AiImageEnhancer.jpg)
 
 ## 📄 Report Summary
 
