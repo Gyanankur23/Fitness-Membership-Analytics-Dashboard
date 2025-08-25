@@ -4,6 +4,10 @@
 # Zoomcharts Mini Challenge
 ## 📊 Fitness Membership Analytics Report
 
+## Now live at:-
+
+[https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-august-2025]
+
 This repository contains my submission for the **Onyx Data Challenge – August 2025**, powered by **ZoomCharts**, **Enterprise DNA**, **BCS**, **Smart Frames UI**, and **Data Career Jumpstart**. The challenge focused on analyzing fitness membership data across multiple locations to uncover trends in revenue, engagement, and retention.
 
 ---
